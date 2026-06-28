@@ -1,4 +1,4 @@
-<table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#000000">
+<table width="100%" cellspacing="0" cellpadding="20"><tr><td bgcolor="#000000">
 
 <img src="banner3.png" width="100%">
 
