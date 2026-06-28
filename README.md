@@ -1,3 +1,5 @@
+<img src="banner.jpg" width="100%">
+
 <pre>
 <b>hargun@malhotra</b>
 -----------------
