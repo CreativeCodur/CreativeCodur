@@ -1,4 +1,6 @@
-<img src="banner.png" width="100%">
+<table width="100%" cellspacing="0" cellpadding="0"><tr><td bgcolor="#000000">
+
+<img src="banner3.png" width="100%">
 
 <pre>
 <b>hargun@malhotra</b>
@@ -20,3 +22,5 @@ Website ................. <a href="https://thisishargun.vercel.app">thisishargun
 LinkedIn ................ <a href="https://linkedin.com/in/hargunm">linkedin.com/in/hargunm</a>
 Email ................... <a href="mailto:hargunmalhotra31@gmail.com">hargunmalhotra31@gmail.com</a>
 </pre>
+
+</td></tr></table>
